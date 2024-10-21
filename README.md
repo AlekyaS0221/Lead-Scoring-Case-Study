@@ -1,5 +1,5 @@
 # Lead-Scoring-Case-Study
-Lead Score Case Study using Logistic Regression
+
 This Lead Scoring Case Study Repository includes the below mentioned files:
 
 01_Lead_Score_Case_Study.ipynb: A detailed commented Python File with Logistic Regression model developed for Lead Score Analysis for an education company named X Education that sells online courses to industry professionals.
