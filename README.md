@@ -11,5 +11,5 @@ This Lead Scoring Case Study Repository includes the below mentioned files:
 04_Summary report.pdf:   
 The process followed and all the learnings are clearly mentioned.
 
-![image](https://github.com/user-attachments/assets/acfb5104-54b4-4846-a2ca-16140cc4a7a4)
+
 
