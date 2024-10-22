@@ -11,5 +11,23 @@ This Lead Scoring Case Study Repository includes the below mentioned files:
 04_Summary report.pdf:   
 The process followed and all the learnings are clearly mentioned.
 
+We have performed Lead Score Analysis - Case Study using Logistic Regression
+
+Problem Statement:
+X Education sells online courses to industry professionals. They need help in selecting the most promising leads, i.e. the ‘leads’ that are most likely to convert into paying customers.
+
+Customers are called as ‘leads’ when they provide their contact details to the company through various channels. The Sales team of the company follows up with these Leads to sell them the course and convert into paying customers.
+
+The conversion to lead ratio is currently 30%. The company wants to improve this ratio by identifying the most potential leads, also known as ‘Hot Leads’.
+
+The CEO, in particular, has given a ballpark of the target lead conversion rate to be around 80%.
+
+Goal:
+There are quite a few goals for this case study:
+
+Build a logistic regression model to assign a lead score between 0 and 100 to each of the leads which can be used by the company to target potential leads. A higher score would mean that the lead is hot, i.e. is most likely to convert whereas a lower score would mean that the lead is cold and will mostly not get converted.
+
+There are some more problems presented by the company which your model should be able to adjust to if the company's requirement changes in the future so you will need to handle these as well. These problems are provided in a separate doc file. Please fill it based on the logistic regression model you got in the first step. Also, make sure you include this in your final PPT where you'll make recommendations.
+
 
 
